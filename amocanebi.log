@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  26 MAY 2020 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  26 MAY 2020 17:09
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
@@ -1118,12 +1118,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 493.
  ) 
 Here is how much of TeX's memory you used:
  8554 strings out of 480795
- 124475 string characters out of 2905348
+ 124489 string characters out of 2905348
  401647 words of memory out of 3000000
  24318 multiletter control sequences out of 15000+200000
  541882 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,29p,2094b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,6n,29p,2984b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/georgian/t8m.enc}<C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fo
@@ -1133,7 +1133,7 @@ msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (25 pages, 907611 bytes).
+Output written on amocanebi.pdf (25 pages, 908793 bytes).
 PDF statistics:
  259 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
