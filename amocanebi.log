@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  26 MAY 2020 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  27 MAY 2020 09:48
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
@@ -969,32 +969,32 @@ Package pdftex.def Info: images/1719.png  used on input line 339.
 <images/F1757.png, id=175, 563.10374pt x 185.19188pt>
 File: images/F1757.png Graphic file (type png)
 <use images/F1757.png>
-Package pdftex.def Info: images/F1757.png  used on input line 358.
+Package pdftex.def Info: images/F1757.png  used on input line 360.
 (pdftex.def)             Requested size: 225.2375pt x 74.07542pt.
 <images/F1762.png, id=176, 220.57407pt x 297.36093pt>
 File: images/F1762.png Graphic file (type png)
 <use images/F1762.png>
-Package pdftex.def Info: images/F1762.png  used on input line 367.
+Package pdftex.def Info: images/F1762.png  used on input line 369.
 (pdftex.def)             Requested size: 88.22806pt x 118.94226pt.
  [18 <./images/F1757.png> <./images/F1762.png>]
 <images/F1855.png, id=183, 174.6525pt x 350.81062pt>
 File: images/F1855.png Graphic file (type png)
 <use images/F1855.png>
-Package pdftex.def Info: images/F1855.png  used on input line 378.
+Package pdftex.def Info: images/F1855.png  used on input line 380.
 (pdftex.def)             Requested size: 87.32603pt x 175.40488pt.
  [19 <./images/F1855.png>]
 <images/F2422.png, id=190, 235.63031pt x 161.10187pt>
 File: images/F2422.png Graphic file (type png)
 <use images/F2422.png>
-Package pdftex.def Info: images/F2422.png  used on input line 394.
+Package pdftex.def Info: images/F2422.png  used on input line 396.
 (pdftex.def)             Requested size: 141.37927pt x 96.66187pt.
 <images/F2531.png, id=191, 543.02875pt x 444.66125pt>
 File: images/F2531.png Graphic file (type png)
 <use images/F2531.png>
-Package pdftex.def Info: images/F2531.png  used on input line 399.
+Package pdftex.def Info: images/F2531.png  used on input line 401.
 (pdftex.def)             Requested size: 162.90987pt x 133.3994pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--406
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
@@ -1104,22 +1104,22 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\geoi' on input line 458.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 495.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 496.
 [24
 
 ] [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 495.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 496.
  (amocanebi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 495.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 495.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 496.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 496.
 Package rerunfilecheck Info: File `amocanebi.out' has not changed.
 (rerunfilecheck)             Checksum: AF10CFD0FEB1565EB9C7A6BBBB04ECE2;148.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 495.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 496.
  ) 
 Here is how much of TeX's memory you used:
  8554 strings out of 480795
  124489 string characters out of 2905348
- 402647 words of memory out of 3000000
+ 401647 words of memory out of 3000000
  24318 multiletter control sequences out of 15000+200000
  541882 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1133,7 +1133,7 @@ msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (25 pages, 909546 bytes).
+Output written on amocanebi.pdf (25 pages, 909644 bytes).
 PDF statistics:
  259 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
