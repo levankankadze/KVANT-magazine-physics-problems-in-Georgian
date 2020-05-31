@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  30 MAY 2020 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  31 MAY 2020 11:27
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
@@ -979,107 +979,113 @@ File: images/1719.png Graphic file (type png)
 Package pdftex.def Info: images/1719.png  used on input line 357.
 (pdftex.def)             Requested size: 117.89134pt x 69.78625pt.
  [18 <./images/1719.png>]
-<images/F1757.png, id=183, 563.10374pt x 185.19188pt>
+<images/1749.png, id=183, 627.09282pt x 301.125pt>
+File: images/1749.png Graphic file (type png)
+<use images/1749.png>
+Package pdftex.def Info: images/1749.png  used on input line 376.
+(pdftex.def)             Requested size: 188.12929pt x 90.33818pt.
+<images/F1757.png, id=184, 563.10374pt x 185.19188pt>
 File: images/F1757.png Graphic file (type png)
 <use images/F1757.png>
-Package pdftex.def Info: images/F1757.png  used on input line 378.
+Package pdftex.def Info: images/F1757.png  used on input line 383.
 (pdftex.def)             Requested size: 225.2375pt x 74.07542pt.
-<images/F1762.png, id=184, 220.57407pt x 297.36093pt>
+ [19 <./images/1749.png> <./images/F1757.png>]
+<images/F1762.png, id=192, 220.57407pt x 297.36093pt>
 File: images/F1762.png Graphic file (type png)
 <use images/F1762.png>
-Package pdftex.def Info: images/F1762.png  used on input line 387.
+Package pdftex.def Info: images/F1762.png  used on input line 392.
 (pdftex.def)             Requested size: 88.22806pt x 118.94226pt.
- [19 <./images/F1757.png> <./images/F1762.png>]
-<images/1834.png, id=192, 576.65437pt x 296.60812pt>
+<images/1834.png, id=193, 576.65437pt x 296.60812pt>
 File: images/1834.png Graphic file (type png)
 <use images/1834.png>
-Package pdftex.def Info: images/1834.png  used on input line 396.
+Package pdftex.def Info: images/1834.png  used on input line 401.
 (pdftex.def)             Requested size: 230.65765pt x 118.64114pt.
-<images/F1855.png, id=193, 174.6525pt x 350.81062pt>
+ [20 <./images/F1762.png> <./images/1834.png>]
+<images/F1855.png, id=200, 174.6525pt x 350.81062pt>
 File: images/F1855.png Graphic file (type png)
 <use images/F1855.png>
-Package pdftex.def Info: images/F1855.png  used on input line 403.
+Package pdftex.def Info: images/F1855.png  used on input line 408.
 (pdftex.def)             Requested size: 87.32603pt x 175.40488pt.
- [20 <./images/1834.png> <./images/F1855.png>]
-<images/F2422.png, id=200, 235.63031pt x 161.10187pt>
+<images/F2422.png, id=201, 235.63031pt x 161.10187pt>
 File: images/F2422.png Graphic file (type png)
 <use images/F2422.png>
-Package pdftex.def Info: images/F2422.png  used on input line 419.
+Package pdftex.def Info: images/F2422.png  used on input line 424.
 (pdftex.def)             Requested size: 141.37927pt x 96.66187pt.
-<images/F2531.png, id=201, 543.02875pt x 444.66125pt>
+ [21 <./images/F1855.png> <./images/F2422.png>]
+<images/F2531.png, id=208, 543.02875pt x 444.66125pt>
 File: images/F2531.png Graphic file (type png)
 <use images/F2531.png>
-Package pdftex.def Info: images/F2531.png  used on input line 424.
+Package pdftex.def Info: images/F2531.png  used on input line 429.
 (pdftex.def)             Requested size: 162.90987pt x 133.3994pt.
- [21 <./images/F2422.png> <./images/F2531.png>] [22] [23]
+ [22 <./images/F2531.png>] [23]
 \geoth \geoa \geov \geoi  3.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoezth' on input line 448.
+(hyperref)                removing `\geoezth' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 448.
+(hyperref)                removing `\geoe' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geom' on input line 448.
+(hyperref)                removing `\geom' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 448.
+(hyperref)                removing `\geoa' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geot' on input line 448.
+(hyperref)                removing `\geot' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 448.
+(hyperref)                removing `\geou' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geor' on input line 448.
+(hyperref)                removing `\geor' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 448.
+(hyperref)                removing `\geoi' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 448.
+(hyperref)                removing `\geos' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 448.
+(hyperref)                removing `\geoa' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovdz' on input line 448.
+(hyperref)                removing `\geovdz' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 448.
+(hyperref)                removing `\geoi' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 448.
+(hyperref)                removing `\geoe' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 448.
+(hyperref)                removing `\geob' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 448.
+(hyperref)                removing `\geoe' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geol' on input line 448.
+(hyperref)                removing `\geol' on input line 451.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 448.
+(hyperref)                removing `\geoi' on input line 451.
 
 [24
 
@@ -1087,53 +1093,53 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 \geoth \geoa \geov \geoi  4.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geop' on input line 469.
+(hyperref)                removing `\geop' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 469.
+(hyperref)                removing `\geoa' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 469.
+(hyperref)                removing `\geos' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 469.
+(hyperref)                removing `\geou' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovkh' on input line 469.
+(hyperref)                removing `\geovkh' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 469.
+(hyperref)                removing `\geoe' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 469.
+(hyperref)                removing `\geob' on input line 472.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 469.
+(hyperref)                removing `\geoi' on input line 472.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 512.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
 [25
 
 ] [26]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 512.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
  (amocanebi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 512.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 512.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
 Package rerunfilecheck Info: File `amocanebi.out' has not changed.
 (rerunfilecheck)             Checksum: AF10CFD0FEB1565EB9C7A6BBBB04ECE2;148.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 512.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 516.
  ) 
 Here is how much of TeX's memory you used:
- 8579 strings out of 480795
- 124872 string characters out of 2905348
- 402647 words of memory out of 3000000
- 24339 multiletter control sequences out of 15000+200000
+ 8587 strings out of 480795
+ 125000 string characters out of 2905348
+ 401647 words of memory out of 3000000
+ 24346 multiletter control sequences out of 15000+200000
  541882 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,29p,2984b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1146,9 +1152,9 @@ msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (26 pages, 978140 bytes).
+Output written on amocanebi.pdf (26 pages, 985198 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
+ 271 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 278 words of extra memory for PDF output out of 10000 (max. 10000000)
 
