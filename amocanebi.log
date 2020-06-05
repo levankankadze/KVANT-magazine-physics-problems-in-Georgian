@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  5 JUN 2020 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  5 JUN 2020 19:28
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
@@ -1020,82 +1020,82 @@ Package pdftex.def Info: images/F1855.png  used on input line 418.
 <images/F2422.png, id=210, 235.63031pt x 161.10187pt>
 File: images/F2422.png Graphic file (type png)
 <use images/F2422.png>
-Package pdftex.def Info: images/F2422.png  used on input line 434.
+Package pdftex.def Info: images/F2422.png  used on input line 436.
 (pdftex.def)             Requested size: 141.37927pt x 96.66187pt.
 <images/F2531.png, id=211, 543.02875pt x 444.66125pt>
 File: images/F2531.png Graphic file (type png)
 <use images/F2531.png>
-Package pdftex.def Info: images/F2531.png  used on input line 439.
+Package pdftex.def Info: images/F2531.png  used on input line 441.
 (pdftex.def)             Requested size: 162.90987pt x 133.3994pt.
  [22 <./images/F2422.png> <./images/F2531.png>] [23]
 \geoth \geoa \geov \geoi  3.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoezth' on input line 464.
+(hyperref)                removing `\geoezth' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 464.
+(hyperref)                removing `\geoe' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geom' on input line 464.
+(hyperref)                removing `\geom' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 464.
+(hyperref)                removing `\geoa' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geot' on input line 464.
+(hyperref)                removing `\geot' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 464.
+(hyperref)                removing `\geou' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geor' on input line 464.
+(hyperref)                removing `\geor' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 464.
+(hyperref)                removing `\geoi' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 464.
+(hyperref)                removing `\geos' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 464.
+(hyperref)                removing `\geoa' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovdz' on input line 464.
+(hyperref)                removing `\geovdz' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 464.
+(hyperref)                removing `\geoi' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 464.
+(hyperref)                removing `\geoe' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 464.
+(hyperref)                removing `\geob' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 464.
+(hyperref)                removing `\geoe' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geol' on input line 464.
+(hyperref)                removing `\geol' on input line 466.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 464.
+(hyperref)                removing `\geoi' on input line 466.
 
 [24
 
@@ -1103,47 +1103,47 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 \geoth \geoa \geov \geoi  4.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geop' on input line 485.
+(hyperref)                removing `\geop' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 485.
+(hyperref)                removing `\geoa' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 485.
+(hyperref)                removing `\geos' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 485.
+(hyperref)                removing `\geou' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovkh' on input line 485.
+(hyperref)                removing `\geovkh' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 485.
+(hyperref)                removing `\geoe' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 485.
+(hyperref)                removing `\geob' on input line 487.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 485.
+(hyperref)                removing `\geoi' on input line 487.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 534.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 536.
 [25
 
 ] [26]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 534.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 536.
  (amocanebi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 534.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 534.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 536.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 536.
 Package rerunfilecheck Info: File `amocanebi.out' has not changed.
 (rerunfilecheck)             Checksum: AF10CFD0FEB1565EB9C7A6BBBB04ECE2;148.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 534.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 536.
  ) 
 Here is how much of TeX's memory you used:
  8601 strings out of 480795
@@ -1162,7 +1162,7 @@ msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (26 pages, 1128926 bytes).
+Output written on amocanebi.pdf (26 pages, 1128960 bytes).
 PDF statistics:
  275 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
