@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  5 JUN 2020 12:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.26)  5 JUN 2020 19:16
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
@@ -995,103 +995,107 @@ File: images/F1757.png Graphic file (type png)
 <use images/F1757.png>
 Package pdftex.def Info: images/F1757.png  used on input line 392.
 (pdftex.def)             Requested size: 225.2375pt x 74.07542pt.
-<images/F1762.png, id=193, 220.57407pt x 297.36093pt>
+<images/1758.png, id=193, 1271.5003pt x 739.26187pt>
+File: images/1758.png Graphic file (type png)
+<use images/1758.png>
+Package pdftex.def Info: images/1758.png  used on input line 397.
+(pdftex.def)             Requested size: 254.29555pt x 147.84975pt.
+<images/F1762.png, id=194, 220.57407pt x 297.36093pt>
 File: images/F1762.png Graphic file (type png)
 <use images/F1762.png>
-Package pdftex.def Info: images/F1762.png  used on input line 401.
-(pdftex.def)             Requested size: 88.22806pt x 118.94226pt.
- [20 <./images/F1757.png> <./images/F1762.png>]
-<images/1834.png, id=200, 576.65437pt x 296.60812pt>
+Package pdftex.def Info: images/F1762.png  used on input line 404.
+(pdftex.def)             Requested size: 110.28676pt x 148.6801pt.
+ [20 <./images/F1757.png> <./images/1758.png> <./images/F1762.png>]
+<images/1834.png, id=202, 576.65437pt x 296.60812pt>
 File: images/1834.png Graphic file (type png)
 <use images/1834.png>
-Package pdftex.def Info: images/1834.png  used on input line 410.
+Package pdftex.def Info: images/1834.png  used on input line 413.
 (pdftex.def)             Requested size: 230.65765pt x 118.64114pt.
-<images/F1855.png, id=201, 174.6525pt x 350.81062pt>
+<images/F1855.png, id=203, 174.6525pt x 350.81062pt>
 File: images/F1855.png Graphic file (type png)
 <use images/F1855.png>
-Package pdftex.def Info: images/F1855.png  used on input line 417.
+Package pdftex.def Info: images/F1855.png  used on input line 420.
 (pdftex.def)             Requested size: 87.32603pt x 175.40488pt.
-
-[21 <./images/1834.png> <./images/F1855.png>]
-<images/F2422.png, id=208, 235.63031pt x 161.10187pt>
+ [21 <./images/1834.png> <./images/F1855.png>]
+<images/F2422.png, id=210, 235.63031pt x 161.10187pt>
 File: images/F2422.png Graphic file (type png)
 <use images/F2422.png>
-Package pdftex.def Info: images/F2422.png  used on input line 433.
+Package pdftex.def Info: images/F2422.png  used on input line 436.
 (pdftex.def)             Requested size: 141.37927pt x 96.66187pt.
-<images/F2531.png, id=209, 543.02875pt x 444.66125pt>
+<images/F2531.png, id=211, 543.02875pt x 444.66125pt>
 File: images/F2531.png Graphic file (type png)
 <use images/F2531.png>
-Package pdftex.def Info: images/F2531.png  used on input line 438.
+Package pdftex.def Info: images/F2531.png  used on input line 441.
 (pdftex.def)             Requested size: 162.90987pt x 133.3994pt.
  [22 <./images/F2422.png> <./images/F2531.png>] [23]
 \geoth \geoa \geov \geoi  3.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoezth' on input line 460.
+(hyperref)                removing `\geoezth' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 460.
+(hyperref)                removing `\geoe' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geom' on input line 460.
+(hyperref)                removing `\geom' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 460.
+(hyperref)                removing `\geoa' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geot' on input line 460.
+(hyperref)                removing `\geot' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 460.
+(hyperref)                removing `\geou' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geor' on input line 460.
+(hyperref)                removing `\geor' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 460.
+(hyperref)                removing `\geoi' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 460.
+(hyperref)                removing `\geos' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 460.
+(hyperref)                removing `\geoa' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovdz' on input line 460.
+(hyperref)                removing `\geovdz' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 460.
+(hyperref)                removing `\geoi' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 460.
+(hyperref)                removing `\geoe' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 460.
+(hyperref)                removing `\geob' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 460.
+(hyperref)                removing `\geoe' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geol' on input line 460.
+(hyperref)                removing `\geol' on input line 463.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 460.
+(hyperref)                removing `\geoi' on input line 463.
 
 [24
 
@@ -1099,53 +1103,53 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 \geoth \geoa \geov \geoi  4.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geop' on input line 481.
+(hyperref)                removing `\geop' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 481.
+(hyperref)                removing `\geoa' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 481.
+(hyperref)                removing `\geos' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 481.
+(hyperref)                removing `\geou' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovkh' on input line 481.
+(hyperref)                removing `\geovkh' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 481.
+(hyperref)                removing `\geoe' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 481.
+(hyperref)                removing `\geob' on input line 484.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 481.
+(hyperref)                removing `\geoi' on input line 484.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 528.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 533.
 [25
 
 ] [26]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 528.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 533.
  (amocanebi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 528.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 528.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 533.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 533.
 Package rerunfilecheck Info: File `amocanebi.out' has not changed.
 (rerunfilecheck)             Checksum: AF10CFD0FEB1565EB9C7A6BBBB04ECE2;148.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 528.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 533.
  ) 
 Here is how much of TeX's memory you used:
- 8595 strings out of 480795
- 125120 string characters out of 2905348
+ 8601 strings out of 480795
+ 125222 string characters out of 2905348
  401647 words of memory out of 3000000
- 24353 multiletter control sequences out of 15000+200000
+ 24358 multiletter control sequences out of 15000+200000
  541882 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,29p,2984b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1158,9 +1162,9 @@ msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (26 pages, 992713 bytes).
+Output written on amocanebi.pdf (26 pages, 1128915 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
+ 275 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 
