@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.17)  18 JUN 2020 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.17)  30 AUG 2020 22:01
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
@@ -781,321 +781,321 @@ Package pdftex.def Info: images/164.png  used on input line 98.
 <images/F297.jpg, id=59, 110.4125pt x 126.4725pt>
 File: images/F297.jpg Graphic file (type jpg)
 <use images/F297.jpg>
-Package pdftex.def Info: images/F297.jpg  used on input line 107.
+Package pdftex.def Info: images/F297.jpg  used on input line 109.
 (pdftex.def)             Requested size: 55.2061pt x 63.23608pt.
 <images/392.png, id=60, 473.51906pt x 143.78719pt>
 File: images/392.png Graphic file (type png)
 <use images/392.png>
-Package pdftex.def Info: images/392.png  used on input line 114.
+Package pdftex.def Info: images/392.png  used on input line 116.
 (pdftex.def)             Requested size: 189.40425pt x 57.51385pt.
 <images/405.png, id=61, 339.51843pt x 386.19281pt>
 File: images/405.png Graphic file (type png)
 <use images/405.png>
-Package pdftex.def Info: images/405.png  used on input line 119.
+Package pdftex.def Info: images/405.png  used on input line 121.
 (pdftex.def)             Requested size: 135.80496pt x 154.47438pt.
  [5 <./images/164.png> <./images/F297.jpg> <./images/392.png>]
 <images/F579.png, id=69, 343.2825pt x 194.22563pt>
 File: images/F579.png Graphic file (type png)
 <use images/F579.png>
-Package pdftex.def Info: images/F579.png  used on input line 128.
+Package pdftex.def Info: images/F579.png  used on input line 130.
 (pdftex.def)             Requested size: 171.64082pt x 97.11256pt.
 <images/F649.png, id=70, 508.14844pt x 273.27094pt>
 File: images/F649.png Graphic file (type png)
 <use images/F649.png>
-Package pdftex.def Info: images/F649.png  used on input line 133.
+Package pdftex.def Info: images/F649.png  used on input line 135.
 (pdftex.def)             Requested size: 254.0736pt x 136.63512pt.
 <images/F683.png, id=71, 278.54062pt x 277.78781pt>
 File: images/F683.png Graphic file (type png)
 <use images/F683.png>
-Package pdftex.def Info: images/F683.png  used on input line 138.
+Package pdftex.def Info: images/F683.png  used on input line 140.
 (pdftex.def)             Requested size: 139.26996pt x 138.89355pt.
  [6 <./images/405.png> <./images/F579.png> <./images/F649.png>]
 <images/724.png, id=81, 173.89969pt x 321.45094pt>
 File: images/724.png Graphic file (type png)
 <use images/724.png>
-Package pdftex.def Info: images/724.png  used on input line 145.
+Package pdftex.def Info: images/724.png  used on input line 147.
 (pdftex.def)             Requested size: 52.1703pt x 96.43602pt.
 <images/1006.png, id=82, 393.72093pt x 174.6525pt>
 File: images/1006.png Graphic file (type png)
 <use images/1006.png>
-Package pdftex.def Info: images/1006.png  used on input line 158.
+Package pdftex.def Info: images/1006.png  used on input line 160.
 (pdftex.def)             Requested size: 157.48558pt x 69.85976pt.
 <images/1015.png, id=83, 420.82219pt x 184.43906pt>
 File: images/1015.png Graphic file (type png)
 <use images/1015.png>
-Package pdftex.def Info: images/1015.png  used on input line 163.
+Package pdftex.def Info: images/1015.png  used on input line 165.
 (pdftex.def)             Requested size: 168.32588pt x 73.7743pt.
  [7 <./images/F683.png> <./images/724.png> <./images/1006.png>]
 <images/F1071.png, id=92, 331.99031pt x 234.1247pt>
 File: images/F1071.png Graphic file (type png)
 <use images/F1071.png>
-Package pdftex.def Info: images/F1071.png  used on input line 170.
+Package pdftex.def Info: images/F1071.png  used on input line 172.
 (pdftex.def)             Requested size: 99.59785pt x 70.23795pt.
 <images/F1124.png, id=93, 333.49594pt x 194.97844pt>
 File: images/F1124.png Graphic file (type png)
 <use images/F1124.png>
-Package pdftex.def Info: images/F1124.png  used on input line 175.
+Package pdftex.def Info: images/F1124.png  used on input line 177.
 (pdftex.def)             Requested size: 66.698pt x 38.995pt.
 <images/F1215.png, id=94, 363.60844pt x 231.11343pt>
 File: images/F1215.png Graphic file (type png)
 <use images/F1215.png>
-Package pdftex.def Info: images/F1215.png  used on input line 180.
+Package pdftex.def Info: images/F1215.png  used on input line 182.
 (pdftex.def)             Requested size: 181.80377pt x 115.55643pt.
 <images/F1258.jpg, id=95, 531.48563pt x 414.04688pt>
 File: images/F1258.jpg Graphic file (type jpg)
 <use images/F1258.jpg>
-Package pdftex.def Info: images/F1258.jpg  used on input line 185.
+Package pdftex.def Info: images/F1258.jpg  used on input line 187.
 (pdftex.def)             Requested size: 106.29524pt x 82.80789pt.
  [8 <./images/1015.png> <./images/F1071.png> <./images/F1124.png> <./images/F12
 15.png>]
 <images/F1320.png, id=104, 353.06906pt x 260.47313pt>
 File: images/F1320.png Graphic file (type png)
 <use images/F1320.png>
-Package pdftex.def Info: images/F1320.png  used on input line 194.
+Package pdftex.def Info: images/F1320.png  used on input line 196.
 (pdftex.def)             Requested size: 141.22511pt x 104.1874pt.
 <images/F1328.png, id=105, 115.93312pt x 83.5622pt>
 File: images/F1328.png Graphic file (type png)
 <use images/F1328.png>
-Package pdftex.def Info: images/F1328.png  used on input line 199.
+Package pdftex.def Info: images/F1328.png  used on input line 201.
 (pdftex.def)             Requested size: 57.96642pt x 41.78099pt.
 
 [9 <./images/F1258.jpg> <./images/F1320.png> <./images/F1328.png>]
 <images/F1388.jpg, id=111, 472.01344pt x 205.5178pt>
 File: images/F1388.jpg Graphic file (type jpg)
 <use images/F1388.jpg>
-Package pdftex.def Info: images/F1388.jpg  used on input line 210.
+Package pdftex.def Info: images/F1388.jpg  used on input line 212.
 (pdftex.def)             Requested size: 94.401pt x 41.10283pt.
 <images/F1389.png, id=112, 195.73125pt x 207.77625pt>
 File: images/F1389.png Graphic file (type png)
 <use images/F1389.png>
-Package pdftex.def Info: images/F1389.png  used on input line 215.
+Package pdftex.def Info: images/F1389.png  used on input line 217.
 (pdftex.def)             Requested size: 78.2911pt x 83.10901pt.
 <images/F1488.png, id=113, 271.76532pt x 314.67563pt>
 File: images/F1488.png Graphic file (type png)
 <use images/F1488.png>
-Package pdftex.def Info: images/F1488.png  used on input line 222.
+Package pdftex.def Info: images/F1488.png  used on input line 224.
 (pdftex.def)             Requested size: 108.7042pt x 125.86801pt.
 <images/F1489.png, id=114, 324.46219pt x 176.15813pt>
 File: images/F1489.png Graphic file (type png)
 <use images/F1489.png>
-Package pdftex.def Info: images/F1489.png  used on input line 227.
+Package pdftex.def Info: images/F1489.png  used on input line 229.
 (pdftex.def)             Requested size: 129.78256pt x 70.46199pt.
  [10 <./images/F1388.jpg> <./images/F1389.png> <./images/F1488.png>]
 <images/F1490.png, id=121, 353.82187pt x 99.37125pt>
 File: images/F1490.png Graphic file (type png)
 <use images/F1490.png>
-Package pdftex.def Info: images/F1490.png  used on input line 232.
+Package pdftex.def Info: images/F1490.png  used on input line 234.
 (pdftex.def)             Requested size: 141.52623pt x 39.74779pt.
 <images/F1589.png, id=122, 601.4972pt x 167.12437pt>
 File: images/F1589.png Graphic file (type png)
 <use images/F1589.png>
-Package pdftex.def Info: images/F1589.png  used on input line 241.
+Package pdftex.def Info: images/F1589.png  used on input line 243.
 (pdftex.def)             Requested size: 240.59462pt x 66.84856pt.
 <images/F1599.png, id=123, 281.55188pt x 359.84438pt>
 File: images/F1599.png Graphic file (type png)
 <use images/F1599.png>
-Package pdftex.def Info: images/F1599.png  used on input line 246.
+Package pdftex.def Info: images/F1599.png  used on input line 248.
 (pdftex.def)             Requested size: 112.61874pt x 143.9352pt.
  [11 <./images/F1489.png> <./images/F1490.png> <./images/F1589.png> <./images/F
 1599.png>]
 <images/F1601.png, id=132, 333.49594pt x 328.97906pt>
 File: images/F1601.png Graphic file (type png)
 <use images/F1601.png>
-Package pdftex.def Info: images/F1601.png  used on input line 251.
+Package pdftex.def Info: images/F1601.png  used on input line 253.
 (pdftex.def)             Requested size: 133.39601pt x 131.5893pt.
 <images/F1613.png, id=133, 402.75468pt x 142.28156pt>
 File: images/F1613.png Graphic file (type png)
 <use images/F1613.png>
-Package pdftex.def Info: images/F1613.png  used on input line 262.
+Package pdftex.def Info: images/F1613.png  used on input line 264.
 (pdftex.def)             Requested size: 161.09901pt x 56.9116pt.
 <images/F1614.png, id=134, 363.60844pt x 121.95563pt>
 File: images/F1614.png Graphic file (type png)
 <use images/F1614.png>
-Package pdftex.def Info: images/F1614.png  used on input line 267.
+Package pdftex.def Info: images/F1614.png  used on input line 269.
 (pdftex.def)             Requested size: 145.4408pt x 48.78137pt.
  [12 <./images/F1601.png> <./images/F1613.png>]
 LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <8> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 276.
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 278.
 LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 276.
+(Font)              scaled to size 7.19995pt on input line 278.
 LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <6> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 276.
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 278.
 LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 276.
+(Font)              scaled to size 5.39996pt on input line 278.
  [13 <./images/F1614.png>]
 <images/F1639.jpg, id=147, 215.80624pt x 110.4125pt>
 File: images/F1639.jpg Graphic file (type jpg)
 <use images/F1639.jpg>
-Package pdftex.def Info: images/F1639.jpg  used on input line 292.
+Package pdftex.def Info: images/F1639.jpg  used on input line 294.
 (pdftex.def)             Requested size: 107.90285pt x 55.2061pt.
 <images/1643.png, id=148, 1157.07281pt x 340.27126pt>
 File: images/1643.png Graphic file (type png)
 <use images/1643.png>
-Package pdftex.def Info: images/1643.png  used on input line 297.
+Package pdftex.def Info: images/1643.png  used on input line 299.
 (pdftex.def)             Requested size: 231.41046pt x 68.05304pt.
  [14 <./images/F1639.jpg> <./images/1643.png>]
 <images/1660.png, id=154, 392.96812pt x 243.15843pt>
 File: images/1660.png Graphic file (type png)
 <use images/1660.png>
-Package pdftex.def Info: images/1660.png  used on input line 310.
+Package pdftex.def Info: images/1660.png  used on input line 312.
 (pdftex.def)             Requested size: 117.89134pt x 72.94809pt.
 <images/F1661.png, id=155, 369.63094pt x 94.85437pt>
 File: images/F1661.png Graphic file (type png)
 <use images/F1661.png>
-Package pdftex.def Info: images/F1661.png  used on input line 315.
+Package pdftex.def Info: images/F1661.png  used on input line 317.
 (pdftex.def)             Requested size: 184.815pt x 47.42706pt.
 <images/F1669.jpg, id=156, 234.8775pt x 101.37875pt>
 File: images/F1669.jpg Graphic file (type jpg)
 <use images/F1669.jpg>
-Package pdftex.def Info: images/F1669.jpg  used on input line 322.
+Package pdftex.def Info: images/F1669.jpg  used on input line 324.
 (pdftex.def)             Requested size: 117.43846pt x 50.68924pt.
  [15 <./images/1660.png> <./images/F1661.png>]
 <images/F1671.png, id=163, 234.8775pt x 98.61844pt>
 File: images/F1671.png Graphic file (type png)
 <use images/F1671.png>
-Package pdftex.def Info: images/F1671.png  used on input line 327.
+Package pdftex.def Info: images/F1671.png  used on input line 329.
 (pdftex.def)             Requested size: 117.43846pt x 49.30908pt.
 <images/F1674.jpg, id=164, 142.5325pt x 249.93375pt>
 File: images/F1674.jpg Graphic file (type jpg)
 <use images/F1674.jpg>
-Package pdftex.def Info: images/F1674.jpg  used on input line 332.
+Package pdftex.def Info: images/F1674.jpg  used on input line 334.
 (pdftex.def)             Requested size: 71.26607pt x 124.96657pt.
 
 [16 <./images/F1669.jpg> <./images/F1671.png> <./images/F1674.jpg>]
 <images/F1704.jpg, id=170, 190.7125pt x 148.555pt>
 File: images/F1704.jpg Graphic file (type jpg)
 <use images/F1704.jpg>
-Package pdftex.def Info: images/F1704.jpg  used on input line 352.
+Package pdftex.def Info: images/F1704.jpg  used on input line 354.
 (pdftex.def)             Requested size: 95.356pt x 74.27731pt.
 <images/F1705.png, id=171, 212.29312pt x 144.54pt>
 File: images/F1705.png Graphic file (type png)
 <use images/F1705.png>
-Package pdftex.def Info: images/F1705.png  used on input line 357.
+Package pdftex.def Info: images/F1705.png  used on input line 359.
 (pdftex.def)             Requested size: 106.1463pt x 72.2698pt.
  [17 <./images/F1704.jpg> <./images/F1705.png>]
 <images/F1707.png, id=177, 161.10187pt x 222.8325pt>
 File: images/F1707.png Graphic file (type png)
 <use images/F1707.png>
-Package pdftex.def Info: images/F1707.png  used on input line 362.
+Package pdftex.def Info: images/F1707.png  used on input line 364.
 (pdftex.def)             Requested size: 80.55074pt x 111.41597pt.
 <images/1719.png, id=178, 392.96812pt x 232.61906pt>
 File: images/1719.png Graphic file (type png)
 <use images/1719.png>
-Package pdftex.def Info: images/1719.png  used on input line 369.
+Package pdftex.def Info: images/1719.png  used on input line 371.
 (pdftex.def)             Requested size: 117.89134pt x 69.78625pt.
  [18 <./images/F1707.png> <./images/1719.png>]
 <images/1749.png, id=185, 627.09282pt x 301.125pt>
 File: images/1749.png Graphic file (type png)
 <use images/1749.png>
-Package pdftex.def Info: images/1749.png  used on input line 388.
+Package pdftex.def Info: images/1749.png  used on input line 390.
 (pdftex.def)             Requested size: 188.12929pt x 90.33818pt.
  [19 <./images/1749.png>]
 <images/F1757.png, id=192, 563.10374pt x 185.19188pt>
 File: images/F1757.png Graphic file (type png)
 <use images/F1757.png>
-Package pdftex.def Info: images/F1757.png  used on input line 395.
+Package pdftex.def Info: images/F1757.png  used on input line 397.
 (pdftex.def)             Requested size: 225.2375pt x 74.07542pt.
 <images/1758.png, id=193, 1271.5003pt x 739.26187pt>
 File: images/1758.png Graphic file (type png)
 <use images/1758.png>
-Package pdftex.def Info: images/1758.png  used on input line 400.
+Package pdftex.def Info: images/1758.png  used on input line 402.
 (pdftex.def)             Requested size: 254.29555pt x 147.84975pt.
 <images/F1762.png, id=194, 220.57407pt x 297.36093pt>
 File: images/F1762.png Graphic file (type png)
 <use images/F1762.png>
-Package pdftex.def Info: images/F1762.png  used on input line 407.
+Package pdftex.def Info: images/F1762.png  used on input line 409.
 (pdftex.def)             Requested size: 110.28676pt x 148.6801pt.
  [20 <./images/F1757.png> <./images/1758.png> <./images/F1762.png>]
 <images/1834.png, id=202, 576.65437pt x 296.60812pt>
 File: images/1834.png Graphic file (type png)
 <use images/1834.png>
-Package pdftex.def Info: images/1834.png  used on input line 416.
+Package pdftex.def Info: images/1834.png  used on input line 418.
 (pdftex.def)             Requested size: 230.65765pt x 118.64114pt.
 <images/F1855.png, id=203, 174.6525pt x 350.81062pt>
 File: images/F1855.png Graphic file (type png)
 <use images/F1855.png>
-Package pdftex.def Info: images/F1855.png  used on input line 423.
+Package pdftex.def Info: images/F1855.png  used on input line 425.
 (pdftex.def)             Requested size: 87.32603pt x 175.40488pt.
  [21 <./images/1834.png> <./images/F1855.png>]
 <images/F2422.png, id=210, 235.63031pt x 161.10187pt>
 File: images/F2422.png Graphic file (type png)
 <use images/F2422.png>
-Package pdftex.def Info: images/F2422.png  used on input line 441.
+Package pdftex.def Info: images/F2422.png  used on input line 443.
 (pdftex.def)             Requested size: 141.37927pt x 96.66187pt.
 <images/F2531.png, id=211, 543.02875pt x 444.66125pt>
 File: images/F2531.png Graphic file (type png)
 <use images/F2531.png>
-Package pdftex.def Info: images/F2531.png  used on input line 446.
+Package pdftex.def Info: images/F2531.png  used on input line 448.
 (pdftex.def)             Requested size: 162.90987pt x 133.3994pt.
  [22 <./images/F2422.png> <./images/F2531.png>] [23]
 \geoth \geoa \geov \geoi  3.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoezth' on input line 475.
+(hyperref)                removing `\geoezth' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 475.
+(hyperref)                removing `\geoe' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geom' on input line 475.
+(hyperref)                removing `\geom' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 475.
+(hyperref)                removing `\geoa' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geot' on input line 475.
+(hyperref)                removing `\geot' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 475.
+(hyperref)                removing `\geou' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geor' on input line 475.
+(hyperref)                removing `\geor' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 475.
+(hyperref)                removing `\geoi' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 475.
+(hyperref)                removing `\geos' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 475.
+(hyperref)                removing `\geoa' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovdz' on input line 475.
+(hyperref)                removing `\geovdz' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 475.
+(hyperref)                removing `\geoi' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 475.
+(hyperref)                removing `\geoe' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 475.
+(hyperref)                removing `\geob' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 475.
+(hyperref)                removing `\geoe' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geol' on input line 475.
+(hyperref)                removing `\geol' on input line 477.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 475.
+(hyperref)                removing `\geoi' on input line 477.
 
 [24
 
@@ -1103,47 +1103,47 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 \geoth \geoa \geov \geoi  4.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geop' on input line 496.
+(hyperref)                removing `\geop' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 496.
+(hyperref)                removing `\geoa' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 496.
+(hyperref)                removing `\geos' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 496.
+(hyperref)                removing `\geou' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovkh' on input line 496.
+(hyperref)                removing `\geovkh' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 496.
+(hyperref)                removing `\geoe' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 496.
+(hyperref)                removing `\geob' on input line 498.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 496.
+(hyperref)                removing `\geoi' on input line 498.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 555.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 558.
 [25
 
 ] [26]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 555.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 558.
  (amocanebi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 555.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 555.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 558.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 558.
 Package rerunfilecheck Info: File `amocanebi.out' has not changed.
 (rerunfilecheck)             Checksum: AF10CFD0FEB1565EB9C7A6BBBB04ECE2;148.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 555.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 558.
  ) 
 Here is how much of TeX's memory you used:
  8604 strings out of 480797
@@ -1162,7 +1162,7 @@ msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (26 pages, 1130148 bytes).
+Output written on amocanebi.pdf (26 pages, 1130683 bytes).
 PDF statistics:
  275 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
