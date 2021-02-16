@@ -1,37 +1,37 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.10.31)  17 JAN 2021 12:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.3)  16 FEB 2021 12:37
 entering extended mode
 **./amocanebi.tex
 (amocanebi.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-03>
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
-Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count177
+\c@chapter=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8kenc.def"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8kenc.def
 File: t8kenc.def 2009/03/03 v1.2 Georgian Mkhedruli(U+10D0-U+10FC)-Khucuri(U+2D
 00-U+2D26) encoding definition file
 Now handling font encoding T8K ...
 ... processing UTF-8 mapping file for font encoding T8K
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8kenc.dfu"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8kenc.dfu
 File: t8kenc.dfu 2009/03/04 v1.2 UTF8 support for Georgian
    defining Unicode char U+2D00 (decimal 11520)
    defining Unicode char U+2D01 (decimal 11521)
@@ -117,12 +117,12 @@ File: t8kenc.dfu 2009/03/04 v1.2 UTF8 support for Georgian
    defining Unicode char U+10FB (decimal 4347)
    defining Unicode char U+10FC (decimal 4348)
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8menc.def"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8menc.def
 File: t8menc.def 2009/03/04 v1.1 Georgian Mxedruli encoding definition file
 Now handling font encoding T8M ...
 ... processing UTF-8 mapping file for font encoding T8M
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8menc.dfu"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8menc.dfu
 File: t8menc.dfu 2009/03/04 v1.1 UTF8 support for Georgian
    defining Unicode char U+10A0 (decimal 4256)
    defining Unicode char U+10A1 (decimal 4257)
@@ -211,13 +211,13 @@ File: t8menc.dfu 2009/03/04 v1.1 UTF8 support for Georgian
 LaTeX Font Info:    Trying to load font information for T8M+cmr on input line 1
 12.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8mcmr.fd"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8mcmr.fd
 File: t8mcmr.fd t8mcmr fontfile
 )
 LaTeX Font Info:    Trying to load font information for T8M+djg on input line 1
 12.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8mdjg.fd"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8mdjg.fd
 File: t8mdjg.fd 2007/10/20 Fontinst v1.929 font definitions for T8M/djg.
 )
 LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <12> not available
@@ -225,33 +225,34 @@ LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <12> not available
 LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 112.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2020/06/10 3.45 The Babel package
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2020/06/10 3.45 Babel common definitions
-\babel@savecnt=\count176
-\U@D=\dimen135
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count186
+\U@D=\dimen139
 \l@babelnohyphens=\language79
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count177
+\bbl@dirlevel=\count187
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
@@ -260,7 +261,8 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 108.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel-georgian\georgian.ldf"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/babel-georgian\georgi
+an.ldf
 Language: georgian 2017/11/20 2.2 Georgian support from the babel system
 
 
@@ -269,97 +271,103 @@ Package babel Warning: No Georgian font encoding has been loaded so far.
 (babel)                Default `T8M' encoding will be loaded  on input line 77.
 
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8menc.def"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8menc.def
 File: t8menc.def 2009/03/04 v1.1 Georgian Mxedruli encoding definition file
 LaTeX Font Info:    Redeclaring font encoding T8M on input line 23.
 )
 Package babel Info: Making " an active character on input line 110.
 Package babel Info: \geodash is defined on input line 146.
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel-georgian\georgiancaps.tex"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/babel-georgian\georgi
+ancaps.tex
 File: georgiancaps.tex 2013/06/06 v2.0 Captions in Georgian
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen136
-\Gin@req@width=\dimen137
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
-Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/pdfescape\pdfescape.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty"
+) (C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/letltxmacro\letltxmacro.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen138
-\Hy@linkcounter=\count178
-\Hy@pagecounter=\count179
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+\@linkdim=\dimen142
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
+ (C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count180
+\Hy@SavedSpaceFactor=\count190
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -367,25 +375,25 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count181
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\c@Hy@tempcnt=\count191
+ (C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen139
+\XeTeXLinkMargin=\dimen143
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/bigintcalc\bigintcalc.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count182
-\Field@Width=\dimen140
-\Fld@charsize=\dimen141
+\Fld@menulength=\count192
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -396,29 +404,33 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
 )
-\Hy@abspage=\count183
-\c@Item=\count184
-\c@Hfootnote=\count185
+\Hy@abspage=\count193
+\c@Item=\count194
+\c@Hfootnote=\count195
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/atveryend\atveryend.sty"
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
 )
-\Fld@listcount=\count186
-\c@bookmark@seq@number=\count187
+\Fld@listcount=\count196
+\c@bookmark@seq@number=\count197
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/uniquecounter\uniquecounter.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -426,112 +438,111 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/mathtools\mathtools.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count188
-\calc@Bcount=\count189
-\calc@Adimen=\dimen142
-\calc@Bdimen=\dimen143
+\calc@Acount=\count198
+\calc@Bcount=\count199
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count190
+\calc@Ccount=\count266
 \calc@Cskip=\skip52
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/mathtools\mhsetup.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
-Package: amsmath 2020/01/20 v2.17e AMS math features
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen144
+\ex@=\dimen148
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen145
+\pmbraise@=\dimen149
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count191
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count192
-\leftroot@=\count193
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count194
-\DOTSCASE@=\count195
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen146
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count196
-\c@MaxMatrixCols=\count197
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
 \dotsspace@=\muskip17
-\c@parentequation=\count198
-\dspbrk@lvl=\count199
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
 \tag@help=\toks19
-\row@=\count266
-\column@=\count267
-\maxfields@=\count268
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
 \andhelp@=\toks20
-\eqnshift@=\dimen147
-\alignsep@=\dimen148
-\tagshift@=\dimen149
-\tagwidth@=\dimen150
-\totwidth@=\dimen151
-\lineht@=\dimen152
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
 \@envbody=\toks21
 \multlinegap=\skip54
 \multlinetaggap=\skip55
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count269
-\l_MT_multwidth_dim=\dimen153
+\g_MT_multlinerow_int=\count279
+\l_MT_multwidth_dim=\dimen157
 \origjot=\skip56
-\l_MT_shortvdotswithinadjustabove_dim=\dimen154
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
-\l_MT_above_intertext_sep=\dimen156
-\l_MT_below_intertext_sep=\dimen157
-\l_MT_above_shortintertext_sep=\dimen158
-\l_MT_below_shortintertext_sep=\dimen159
-\xmathstrut@box=\box47
-\xmathstrut@dim=\dimen160
+\l_MT_shortvdotswithinadjustabove_dim=\dimen158
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen159
+\l_MT_above_intertext_sep=\dimen160
+\l_MT_below_intertext_sep=\dimen161
+\l_MT_above_shortintertext_sep=\dimen162
+\l_MT_below_shortintertext_sep=\dimen163
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen164
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/was\gensymb.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 25.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 25.
 Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count270
-\l__pdf_internal_box=\box48
-)
-(amocanebi.aux)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box50
+) (amocanebi.aux)
 \openout1 = `amocanebi.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -551,7 +562,8 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T8K/cmr/m/n on input line 36.
 LaTeX Font Info:    Trying to load font information for T8K+cmr on input line 3
 6.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/georgian\t8kcmr.fd"
+
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8kcmr.fd
 File: t8kcmr.fd t8kcmr fontfile
 )
 LaTeX Font Info:    ... okay on input line 36.
@@ -560,52 +572,52 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen161
-\scratchbox=\box49
-\nofMPsegments=\count272
-\nofMParguments=\count273
+\scratchcounter=\count281
+\scratchdimen=\dimen165
+\scratchbox=\box51
+\nofMPsegments=\count282
+\nofMParguments=\count283
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen162
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen166
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
 \everyMPtoPDFconversion=\toks24
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+)
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\AtBeginShipoutBox=\box50
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 Package hyperref Info: Link coloring ON on input line 36.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+ (C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
+(C:\Users\Levan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count287
 )
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
-
-(amocanebi.out) (amocanebi.out)
+ (amocanebi.out) (amocanebi.out)
 \@outlinefile=\write3
 \openout3 = `amocanebi.out'.
 
@@ -645,7 +657,7 @@ LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
  [1
 
 
-{C:/Users/levan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Levan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 \geoth \geoa \geov \geoi  1.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -933,201 +945,201 @@ Package pdftex.def Info: images/F1601.png  used on input line 282.
 <images/F1613.png, id=152, 402.75468pt x 142.28156pt>
 File: images/F1613.png Graphic file (type png)
 <use images/F1613.png>
-Package pdftex.def Info: images/F1613.png  used on input line 295.
+Package pdftex.def Info: images/F1613.png  used on input line 297.
 (pdftex.def)             Requested size: 161.09901pt x 56.9116pt.
 <images/F1614.png, id=153, 363.60844pt x 121.95563pt>
 File: images/F1614.png Graphic file (type png)
 <use images/F1614.png>
-Package pdftex.def Info: images/F1614.png  used on input line 300.
+Package pdftex.def Info: images/F1614.png  used on input line 302.
 (pdftex.def)             Requested size: 145.4408pt x 48.78137pt.
  [14 <./images/F1613.png> <./images/F1614.png>]
 LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <8> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 309.
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 311.
 LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 309.
+(Font)              scaled to size 7.19995pt on input line 311.
 LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <6> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 309.
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 311.
 LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 309.
+(Font)              scaled to size 5.39996pt on input line 311.
  [15]
 <images/F1639.jpg, id=164, 215.80624pt x 110.4125pt>
 File: images/F1639.jpg Graphic file (type jpg)
 <use images/F1639.jpg>
-Package pdftex.def Info: images/F1639.jpg  used on input line 325.
+Package pdftex.def Info: images/F1639.jpg  used on input line 327.
 (pdftex.def)             Requested size: 107.90285pt x 55.2061pt.
 <images/1643.png, id=165, 1157.07281pt x 340.27126pt>
 File: images/1643.png Graphic file (type png)
 <use images/1643.png>
-Package pdftex.def Info: images/1643.png  used on input line 330.
+Package pdftex.def Info: images/1643.png  used on input line 332.
 (pdftex.def)             Requested size: 231.41046pt x 68.05304pt.
 <images/1645.png, id=166, 288.3272pt x 432.11438pt>
 File: images/1645.png Graphic file (type png)
 <use images/1645.png>
-Package pdftex.def Info: images/1645.png  used on input line 335.
+Package pdftex.def Info: images/1645.png  used on input line 337.
 (pdftex.def)             Requested size: 57.66441pt x 86.42134pt.
  [16 <./images/F1639.jpg> <./images/1643.png> <./images/1645.png>]
 <images/1660.png, id=173, 392.96812pt x 243.15843pt>
 File: images/1660.png Graphic file (type png)
 <use images/1660.png>
-Package pdftex.def Info: images/1660.png  used on input line 350.
+Package pdftex.def Info: images/1660.png  used on input line 352.
 (pdftex.def)             Requested size: 117.89134pt x 72.94809pt.
 <images/F1661.png, id=174, 369.63094pt x 94.85437pt>
 File: images/F1661.png Graphic file (type png)
 <use images/F1661.png>
-Package pdftex.def Info: images/F1661.png  used on input line 355.
+Package pdftex.def Info: images/F1661.png  used on input line 357.
 (pdftex.def)             Requested size: 184.815pt x 47.42706pt.
 [17 <./images/1660.png> <./images/F1661.png>]
 <images/F1669.jpg, id=181, 234.8775pt x 101.37875pt>
 File: images/F1669.jpg Graphic file (type jpg)
 <use images/F1669.jpg>
-Package pdftex.def Info: images/F1669.jpg  used on input line 362.
+Package pdftex.def Info: images/F1669.jpg  used on input line 364.
 (pdftex.def)             Requested size: 117.43846pt x 50.68924pt.
 <images/F1671.png, id=182, 234.8775pt x 98.61844pt>
 File: images/F1671.png Graphic file (type png)
 <use images/F1671.png>
-Package pdftex.def Info: images/F1671.png  used on input line 371.
+Package pdftex.def Info: images/F1671.png  used on input line 373.
 (pdftex.def)             Requested size: 117.43846pt x 49.30908pt.
 <images/F1674.jpg, id=183, 142.5325pt x 249.93375pt>
 File: images/F1674.jpg Graphic file (type jpg)
 <use images/F1674.jpg>
-Package pdftex.def Info: images/F1674.jpg  used on input line 376.
+Package pdftex.def Info: images/F1674.jpg  used on input line 378.
 (pdftex.def)             Requested size: 71.26607pt x 124.96657pt.
  [18 <./images/F1669.jpg> <./images/F1671.png> <./images/F1674.jpg>]
 <images/F1704.jpg, id=189, 190.7125pt x 148.555pt>
 File: images/F1704.jpg Graphic file (type jpg)
 <use images/F1704.jpg>
-Package pdftex.def Info: images/F1704.jpg  used on input line 398.
+Package pdftex.def Info: images/F1704.jpg  used on input line 400.
 (pdftex.def)             Requested size: 95.356pt x 74.27731pt.
  [19]
 <images/F1705.png, id=195, 212.29312pt x 144.54pt>
 File: images/F1705.png Graphic file (type png)
 <use images/F1705.png>
-Package pdftex.def Info: images/F1705.png  used on input line 403.
+Package pdftex.def Info: images/F1705.png  used on input line 405.
 (pdftex.def)             Requested size: 106.1463pt x 72.2698pt.
 <images/F1707.png, id=196, 161.10187pt x 222.8325pt>
 File: images/F1707.png Graphic file (type png)
 <use images/F1707.png>
-Package pdftex.def Info: images/F1707.png  used on input line 408.
+Package pdftex.def Info: images/F1707.png  used on input line 410.
 (pdftex.def)             Requested size: 80.55074pt x 111.41597pt.
 <images/1719.png, id=197, 392.96812pt x 232.61906pt>
 File: images/1719.png Graphic file (type png)
 <use images/1719.png>
-Package pdftex.def Info: images/1719.png  used on input line 415.
+Package pdftex.def Info: images/1719.png  used on input line 417.
 (pdftex.def)             Requested size: 117.89134pt x 69.78625pt.
  [20 <./images/F1704.jpg> <./images/F1705.png> <./images/F1707.png> <./images/1
 719.png>] [21]
 <images/1749.png, id=209, 627.09282pt x 301.125pt>
 File: images/1749.png Graphic file (type png)
 <use images/1749.png>
-Package pdftex.def Info: images/1749.png  used on input line 436.
+Package pdftex.def Info: images/1749.png  used on input line 438.
 (pdftex.def)             Requested size: 188.12929pt x 90.33818pt.
 <images/F1757.png, id=210, 563.10374pt x 185.19188pt>
 File: images/F1757.png Graphic file (type png)
 <use images/F1757.png>
-Package pdftex.def Info: images/F1757.png  used on input line 443.
+Package pdftex.def Info: images/F1757.png  used on input line 445.
 (pdftex.def)             Requested size: 225.2375pt x 74.07542pt.
 <images/1758.png, id=211, 1271.5003pt x 739.26187pt>
 File: images/1758.png Graphic file (type png)
 <use images/1758.png>
-Package pdftex.def Info: images/1758.png  used on input line 448.
+Package pdftex.def Info: images/1758.png  used on input line 450.
 (pdftex.def)             Requested size: 254.29555pt x 147.84975pt.
  [22 <./images/1749.png> <./images/F1757.png> <./images/1758.png>]
 <images/F1762.png, id=219, 220.57407pt x 297.36093pt>
 File: images/F1762.png Graphic file (type png)
 <use images/F1762.png>
-Package pdftex.def Info: images/F1762.png  used on input line 455.
+Package pdftex.def Info: images/F1762.png  used on input line 457.
 (pdftex.def)             Requested size: 110.28676pt x 148.6801pt.
 <images/1834.png, id=220, 576.65437pt x 296.60812pt>
 File: images/1834.png Graphic file (type png)
 <use images/1834.png>
-Package pdftex.def Info: images/1834.png  used on input line 464.
+Package pdftex.def Info: images/1834.png  used on input line 466.
 (pdftex.def)             Requested size: 230.65765pt x 118.64114pt.
  [23 <./images/F1762.png> <./images/1834.png>]
 <images/F1855.png, id=227, 174.6525pt x 350.81062pt>
 File: images/F1855.png Graphic file (type png)
 <use images/F1855.png>
-Package pdftex.def Info: images/F1855.png  used on input line 471.
+Package pdftex.def Info: images/F1855.png  used on input line 473.
 (pdftex.def)             Requested size: 87.32603pt x 175.40488pt.
 <images/F2422.png, id=228, 235.63031pt x 161.10187pt>
 File: images/F2422.png Graphic file (type png)
 <use images/F2422.png>
-Package pdftex.def Info: images/F2422.png  used on input line 489.
+Package pdftex.def Info: images/F2422.png  used on input line 491.
 (pdftex.def)             Requested size: 141.37927pt x 96.66187pt.
  [24 <./images/F1855.png>]
 <images/F2531.png, id=234, 543.02875pt x 444.66125pt>
 File: images/F2531.png Graphic file (type png)
 <use images/F2531.png>
-Package pdftex.def Info: images/F2531.png  used on input line 494.
+Package pdftex.def Info: images/F2531.png  used on input line 496.
 (pdftex.def)             Requested size: 162.90987pt x 133.3994pt.
  [25 <./images/F2422.png> <./images/F2531.png>] [26]
 \geoth \geoa \geov \geoi  3.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoezth' on input line 504.
+(hyperref)                removing `\geoezth' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 504.
+(hyperref)                removing `\geoe' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geom' on input line 504.
+(hyperref)                removing `\geom' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 504.
+(hyperref)                removing `\geoa' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geot' on input line 504.
+(hyperref)                removing `\geot' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 504.
+(hyperref)                removing `\geou' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geor' on input line 504.
+(hyperref)                removing `\geor' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 504.
+(hyperref)                removing `\geoi' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 504.
+(hyperref)                removing `\geos' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 504.
+(hyperref)                removing `\geoa' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovdz' on input line 504.
+(hyperref)                removing `\geovdz' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 504.
+(hyperref)                removing `\geoi' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 504.
+(hyperref)                removing `\geoe' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 504.
+(hyperref)                removing `\geob' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 504.
+(hyperref)                removing `\geoe' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geol' on input line 504.
+(hyperref)                removing `\geol' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 504.
+(hyperref)                removing `\geoi' on input line 506.
 
 [27
 
@@ -1135,66 +1147,62 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 \geoth \geoa \geov \geoi  4.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geop' on input line 528.
+(hyperref)                removing `\geop' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoa' on input line 528.
+(hyperref)                removing `\geoa' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geos' on input line 528.
+(hyperref)                removing `\geos' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geou' on input line 528.
+(hyperref)                removing `\geou' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geovkh' on input line 528.
+(hyperref)                removing `\geovkh' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoe' on input line 528.
+(hyperref)                removing `\geoe' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geob' on input line 528.
+(hyperref)                removing `\geob' on input line 530.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\geoi' on input line 528.
+(hyperref)                removing `\geoi' on input line 530.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 601.
 [28
 
-] [29] [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 601.
- (amocanebi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 601.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 601.
+] [29] [30] (amocanebi.aux)
 Package rerunfilecheck Info: File `amocanebi.out' has not changed.
 (rerunfilecheck)             Checksum: AF10CFD0FEB1565EB9C7A6BBBB04ECE2;148.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 601.
  ) 
 Here is how much of TeX's memory you used:
- 8655 strings out of 480797
- 125935 string characters out of 2905360
- 407907 words of memory out of 3000000
- 24400 multiletter control sequences out of 15000+200000
- 542109 words of font info for 48 fonts, out of 3000000 for 9000
+ 8724 strings out of 479618
+ 130618 string characters out of 2865027
+ 448842 words of memory out of 3000000
+ 25637 multiletter control sequences out of 15000+200000
+ 413201 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,29p,2984b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/georgian/t8m.enc}<C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on amocanebi.pdf (30 pages, 1223203 bytes).
+ 81i,7n,88p,2984b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Levan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/georgian/t8m.en
+c}<C:/Users/Levan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/Levan/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Users/Levan/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><C:/Users/Levan/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Levan/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Levan/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Levan/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Levan/App
+Data/Local/Programs/MiKTeX/fonts/type1/geodejavu/djg/djgb8a10.pfb><C:/Users/Lev
+an/AppData/Local/Programs/MiKTeX/fonts/type1/geodejavu/djg/djgr8a10.pfb>
+Output written on amocanebi.pdf (30 pages, 1223783 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
